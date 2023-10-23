@@ -18,8 +18,8 @@ for a in range(0,25):
 for n1, n2 in zip(vet1, vet2):
     sm = n1 + n2
     vet3.append(sm)
-print(f'Vetor 1 {vet1}')
+print(f'Vetor 1: {vet1}')
 print('-=' * 80)
-print(f'Vetor 2 {vet2}')
+print(f'Vetor 2: {vet2}')
 print('-=' * 80)
 print(f'Vetor 3: {vet3}')

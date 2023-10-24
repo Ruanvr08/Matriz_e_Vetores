@@ -1,3 +1,7 @@
+'''Faça um programa que preencha um vetor de inteiros de tamanho 10 pedindo valores ao usuário.
+Em seguida, calcule e salve num segundo vetor o quadrado de cada elemento do primeiro vetor. Por
+fim, imprima os dois vetores.'''
+
 vet1 = []
 vet2 = []
 
